@@ -1,1 +1,1 @@
-discontinued
+<a href="https://rscripts.net/user/SyrexGenesisX" target="_blank"><img alt="SyrexGenesisX on Rscripts" loading="lazy" width="360" height="132" src="https://rscripts.net/api/embed/user/SyrexGenesisX?theme=dark" /></a>
